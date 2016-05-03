@@ -124,7 +124,6 @@ class Logger {
                 $this->level = $level;
                 break;
             default:
-                $this->level = self::WARNING;
                 $this->warning('Unsupported logging level.');
                 break;
         }
