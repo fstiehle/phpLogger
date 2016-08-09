@@ -1,6 +1,6 @@
 # phpLogger
 Simple Logger class with timestamps
 
-[https://phpunit.de/getting-started.html]: Run tests with phpunit
+[Run tests with phpunit](https://phpunit.de/getting-started.html)
 
     php-logger$ phpunit --bootstrap Logger.php tests/LoggerTests
